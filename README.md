@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rbansal89
 - 👀 I’m interested in Artificial Intelligence, Software Development, Cyber Security and reasearch in these fields.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning networking and cloud security.
 - 💞️ I’m looking to collaborate on Software(Desktop, Web, Mobile) Development projects, Machine Learning, and Deep Learning Projects.
 - 📫 How to reach me - mail me at rbansal266@gmail.com or connect on linkedin https://www.linkedin.com/in/rahul0200/
 
